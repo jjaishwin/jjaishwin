@@ -35,6 +35,7 @@
     <a href="https://analytics.google.com/analytics/web/provision/#/provision" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-google-analytics-lets-you-measure-your-advertising-roi-logo-shadow-tal-revivo.png" alt="google analytics" width="48" height="45"/> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Microsoft Azure" width="48" height="45"/> </a>
     <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="48" height="45"/> </a> 
+    <a href="https://www.salesforce.com/in/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" width="48" height="45"/>
 
     
     
