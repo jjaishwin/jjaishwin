@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/jjaishwin/DS-Portfolio/blob/master/images/Jayant%20Jaishwin%20Shanmugam%20Kavitha.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jayant Jaishwin Shanmugam Kavitha (Jay)</h1>
-<h3 align="center">I'm a passionate Data Scientist / Data Analyst / Machine Learning Engineer / Business Intelligence / Business Analyst / Future Technology Leader currently located in United States </h3>
+<h3 align="center">I'm an Associate Data Engineer working for CVS Health currently located in Dallas - United States </h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jayantjaishwin.shanmugamkavitha@utdallas.edu**
 
-- ⚡ Fun fact **I enjoy electronic dance music and cooking**
+- ⚡ Fun fact **I enjoy working out and cooking**
 
 
 ## 🚀 Languages and Tools:
